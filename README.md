@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/matthewwanjiku" target="blank"><img src="https://img.shields.io/twitter/follow/matthewwanjiku?logo=twitter&style=for-the-badge" alt="matthewwanjiku" /></a> </p>
 
-- 🔭 I’m currently working on **Revolutionize Engineering🚨**
+- 🔭 I’m currently working on **my grades 😂**
 
 <!--
 MattHeaven/MattHeaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
